@@ -1,0 +1,27 @@
+package main;
+
+import javax.xml.parsers.ParserConfigurationException;
+
+import model.Position;
+
+import org.xml.sax.SAXException;
+
+import businessLogic.PSOAlgorithm;
+import parser.JDOMParser;
+
+
+public class Test {
+	
+	public static void main(String[] args) throws ParserConfigurationException, SAXException {
+		// TODO Auto-generated method stub
+		//JDOMParser parser = new JDOMParser();
+		//parser.parse("D:\\FacultateAN4\\Licenta\\Generator\\src\\Main\\file1.xml");
+		PSOAlgorithm oPSOAlg = new PSOAlgorithm();
+		Position p = oPSOAlg.runPsoAlgorithm(1, 10, 20, 10, 1, "D:\\FacultateAN4\\Licenta\\Generator\\src\\Main\\file1.xml");
+		
+		for(int i=0;i<p.getElements().size();i++){
+			System.out.println("aici"+p.getElements().get(i));
+		}
+	}
+
+}

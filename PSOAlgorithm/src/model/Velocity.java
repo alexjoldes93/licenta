@@ -5,18 +5,18 @@ import java.util.List;
 
 public class Velocity {
 
-private List<Integer> velocity;
+private List<Integer> elements;
 	
 	public Velocity(){
-		velocity = new ArrayList();
+		elements = new ArrayList();
 	}
 
 	public List<Integer> getVelocity() {
-		return velocity;
+		return elements;
 	}
 
 	public void setVelocity(List<Integer> velocity) {
-		this.velocity = velocity;
+		this.elements = velocity;
 	}
 	
 	

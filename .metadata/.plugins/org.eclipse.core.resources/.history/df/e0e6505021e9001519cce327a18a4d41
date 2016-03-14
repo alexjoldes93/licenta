@@ -1,0 +1,30 @@
+package businessLogic;
+
+import java.util.List;
+
+import javax.xml.parsers.ParserConfigurationException;
+
+import model.Particle;
+import model.Position;
+
+import org.xml.sax.SAXException;
+
+public class PSOAlgorithm {
+	
+	MainOperations operations;
+	
+	public PSOAlgorithm(){
+		operations= new MainOperations();
+	}
+	
+	public void runPsoAlgorithm(int nrIterations,int cx, int cp, int cq,int nrParticles,String inputFile) throws ParserConfigurationException, SAXException{
+		List<Particle> particles = operations.initializeParticles(nrParticles, inputFile);
+		Position globalBest = new Position();
+		for(int iteration=0;iteration<nrIterations;iteration++){
+			for(int i=1;i<=nrParticles;i++){
+				particles.get(i-1).setVelocity(operations.updateVelocity(cx, cp, cq, particles.get(i-1).getVelocity(), particles.get(i-1).getLocalBest(), globalBest, particles.get(i-1).getPosition()));
+			}
+		}
+	}
+
+}

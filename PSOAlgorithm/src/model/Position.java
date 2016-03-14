@@ -5,18 +5,18 @@ import java.util.List;
 
 public class Position {
 
-	private List<Double> position;
+	private List<Double> elements;
 	
 	public Position(){
-		position = new ArrayList();
+		elements = new ArrayList();
 	}
 
-	public List<Double> getPosition() {
-		return position;
+	public List<Double> getElements() {
+		return elements;
 	}
 
-	public void setPosition(List<Double> position) {
-		this.position = position;
+	public void setElements(List<Double> position) {
+		this.elements = position;
 	}
 	
 	

@@ -1,0 +1,16 @@
+package main;
+
+import parser.JDOMParser;
+
+
+public class Test {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JDOMParser parser = new JDOMParser();
+		parser.parse("D:\\FacultateAN4\\Licenta\\Generator\\src\\Main\\file1.xml");
+		
+		
+	}
+
+}

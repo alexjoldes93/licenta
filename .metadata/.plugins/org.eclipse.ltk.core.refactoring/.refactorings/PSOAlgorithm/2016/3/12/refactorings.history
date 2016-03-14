@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;model.Position.getPosition()&apos; to &apos;getElements&apos;&#x0D;&#x0A;- Original project: &apos;PSOAlgorithm&apos;&#x0D;&#x0A;- Original element: &apos;model.Position.getPosition()&apos;&#x0D;&#x0A;- Renamed element: &apos;model.Position.getElements()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;getPosition&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;model{Position.java[Position~getPosition" name="getElements" references="true" stamp="1457866794986" version="1.0"/>
+</session>

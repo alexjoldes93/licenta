@@ -13,11 +13,11 @@ public class BasicOperations {
 	
 	public Velocity subtractPositions (Position a, Position b){
 		Velocity result = new Velocity();
-		for(int i=0;i<a.getPosition().size();i++){
-			if(a.getPosition().get(i)==b.getPosition().get(i)){
+		for(int i=0;i<a.getElements().size();i++){
+			if(a.getElements().get(i)==b.getElements().get(i)){
 				result.getVelocity().add(0);
 			}else{
-				if(Math.abs(a.getPosition().get(i) - b.getPosition().get(i))>50){
+				if(Math.abs(a.getElements().get(i) - b.getElements().get(i))>50){
 					result.getVelocity().add(-1);
 				}
 				else
@@ -40,9 +40,9 @@ public class BasicOperations {
 			int countNegativeOneValueVq = countNegativeOneValue(vq);
 			
 			if(countNegativeOneValueVp>countNegativeOneValueVq){
-				ApplyMutation(cp,vp);
+				result = ApplyMutation(cp,vp);
 			}else{
-				ApplyMutation(cq,vq);
+				result = ApplyMutation(cq,vq);
 			}
 		}
 		
@@ -100,15 +100,15 @@ public class BasicOperations {
 	public Position addPositonAndVelocity(Position p, Velocity v){
 		Position result = new Position();
 		
-		for(int i=0;i<p.getPosition().size();i++){
+		for(int i=0;i<p.getElements().size();i++){
 			if(v.getVelocity().get(i)==1)
-				result.getPosition().add(p.getPosition().get(i));
+				result.getElements().add(p.getElements().get(i));
 			else{
 				if(v.getVelocity().get(i)==-1){
-					result.getPosition().add(0.0);
+					result.getElements().add(0.0);
 				}
 				else{
-					result.getPosition().add((double) RandomValue());
+					result.getElements().add((double) RandomValue());
 				}
 			}
 		}
