@@ -3,6 +3,7 @@ package businessLogic;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
 import javax.xml.parsers.ParserConfigurationException;
 
@@ -17,10 +18,12 @@ import model.Velocity;
 public class MainOperations {
 	
 	private BasicOperations operations;
+	private FitnessFunction fitnessFunction;
 	
 	
-	public MainOperations(){
+	public MainOperations(FitnessFunction fitnessFunction){
 		operations = new BasicOperations();
+		this.fitnessFunction=fitnessFunction;
 	}
 	
 	public Velocity updateVelocity(int cx,int cp,int cq,Velocity currentVelocity,Position localBest,Position globalBest,Position currentPosition){
@@ -47,10 +50,10 @@ public class MainOperations {
 
 	public Position updateLocalBest(Particle p){
 		Position newLocalBest = new Position();
-		FitnessFunction fitnessFunction = new FitnessFunction();
-		boolean result = fitnessFunction.applyFitnessFunction(p.getPosition());
+		//FitnessFunction fitnessFunction = new FitnessFunction();
+		//boolean result = fitnessFunction.applyFitnessFunction(p.getPosition());
 		
-		if(result)
+		if(fitnessFunction.applyFitnessFunction2(p.getPosition())<fitnessFunction.applyFitnessFunction2(p.getLocalBest()))
 			newLocalBest=p.getPosition();
 		else 
 			newLocalBest=p.getLocalBest();
@@ -61,10 +64,9 @@ public class MainOperations {
 	public Position updateGlobalBest(Particle  p, Position currentGlobalBest){
 		Position newGlobalBest = new Position();
 		
-		FitnessFunction fitnessFunction = new FitnessFunction();
-		boolean result = fitnessFunction.applyFitnessFunction(p.getPosition());
-		
-		if(result)
+		//FitnessFunction fitnessFunction = new FitnessFunction();
+		//boolean result = fitnessFunction.applyFitnessFunction(p.getPosition());
+		if(fitnessFunction.applyFitnessFunction2(p.getPosition())<fitnessFunction.applyFitnessFunction2(currentGlobalBest))
 			newGlobalBest=p.getPosition();
 		else 
 			newGlobalBest=currentGlobalBest;
@@ -72,18 +74,25 @@ public class MainOperations {
 		return newGlobalBest;
 	}
 	
-	public List<Particle> initializeParticles(int nrParticles,String file) throws ParserConfigurationException, SAXException{
+	public List<Particle> initializeParticles(int nrParticles,String[] file) throws ParserConfigurationException, SAXException{
 		List<Particle> particles = new ArrayList<>();
 		JDOMParser parser = new JDOMParser();
 		//must review
 		for(int i=0;i<nrParticles;i++){
-			Position position = parser.parse(file);
+			Position position = parser.parse(file[i]);
 			
 			Velocity v = new Velocity();
 			
 			List<Integer> inits=new ArrayList<Integer>();
-			for(int j = 0; j<position.getElements().size();j++)
-				inits.add(0);
+			for(int j = 0; j<position.getElements().size();j++){
+				Random rand = new Random();
+				int  n = rand.nextInt(100);
+				if(n>=50)
+					inits.add(1);
+				else
+					inits.add(-1);
+			}
+				//random initialize velocity
 			v.setVelocity(inits);
 			
 			Position localBest = new Position();
@@ -93,6 +102,36 @@ public class MainOperations {
 		}
 		
 		return particles;
-		
 	}
+		//SGPSO
+		public Position updateGeometricCentrePosition(int nrParticles,List<Particle> particles){
+			Position centreGeometricPosition=new Position();
+			
+			for(Particle p:particles){
+				
+			}
+			
+			return  centreGeometricPosition;
+		}
+		
+	
+		public Velocity updateVelocitySGPSO(int w,int cp,int cq,int cx,Velocity currentVelocity,Position localBest,Position globalBest,Position currentPosition, Position geometricCentrePosition){
+			Velocity newVelocity = new Velocity();
+			
+			Velocity term2 = new Velocity();
+			term2 = operations.subtractPositions(localBest, currentPosition);
+			
+			Velocity term3 = new Velocity();
+			term3 = operations.subtractPositions(globalBest, currentPosition);
+			
+			Velocity term4= new Velocity();
+			term4=operations.subtractPositions(geometricCentrePosition, currentPosition);
+			
+			Velocity intermediateResult = new Velocity();
+			intermediateResult = operations.weightAdd(cp, cq, term2, term3);
+			intermediateResult=operations.weightAdd(w, 1, currentVelocity, intermediateResult);
+			
+			newVelocity = operations.weightAdd(cx, 1, term4, intermediateResult);
+			return newVelocity;
+		}
 }

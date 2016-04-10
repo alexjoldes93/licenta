@@ -1,0 +1,6 @@
+binar,algoritm,java,calculator
+cod,functie,c#,ui
+sisteme complexe,fitness,metaeuristica,pso
+inteligenta artificiala,predictie,euristica,sgpso
+inima,sange,cancer,paracetamol
+ficat,vena,migrena,parasinus

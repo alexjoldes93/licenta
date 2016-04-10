@@ -1,0 +1,27 @@
+sisteme complexe,fitness,metaeuristica,pso,teoria sistemelor complexe
+sisteme complexe,algoritm,metaeuristica,pso,teoria sistemelor complexe
+sisteme complexe,algoritm,metaeuristica,sgpso,teoria sistemelor complexe
+sisteme complexe,functie,metaeuristica,pso,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,pso,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,pso,teoria sistemelor complexe
+ficat,sange,migrena,parasinus,medicina
+ficat,vena,cancer,parasinus,medicina
+ficat,vena,cancer,paracetamol,medicina
+ficat,vena,migrena,paracetamol,medicina
+ficat,sange,migrena,paracetamol,medicina
+inima,sange,cancer,paracetamol,medicina
+inima,vena,migrena,paracetamol,medicina
+inima,vena,migrena,parasinus,medicina
+binar,algoritm,java,calculator,informatica
+cod,algoritm,java,calculator,informatica
+binar,functie,java,calculator,informatica
+cod,functie,java,calculator,informatica
+binar,algoritm,c#,calculator,informatica
+cod,algoritm,c#,calculator,informatica
+cod,functie,c#,calculator,informatica
+binar,algoritm,java,ui,informatica
+cod,algoritm,java,calculator,informatica
+cod,functie,java,calculator,informatica
+cod,functie,c#,ui,informatica

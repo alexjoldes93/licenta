@@ -36,10 +36,10 @@ public class JDOMParser {
 			Element root = jdomDoc.getRootElement();
 			List<Element> allChildren = root.getChildren();
 			
-			for(Element child : allChildren)
+			for(int i =0;i<allChildren.size()-1;i++)
 			{
-				System.out.println(child.getText());
-				positionRead.getElements().add(Double.parseDouble(child.getText()));
+				//System.out.println(child.getText());
+				positionRead.getElements().add(Double.parseDouble(allChildren.get(i).getText()));
 			}
 			
 			} catch (IOException io) {

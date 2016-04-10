@@ -1,13 +1,15 @@
 package model;
 
+import java.util.List;
+
 public class Article {
 	
 	private double procentLeadSectionUnderstandable;
 	private double procentClearOfStruture;
 	private double procentReferencesToReliableSources;
-	private double procentWwarningBanneraAtTop;
+	//private double procentWwarningBanneraAtTop;
 	private double procentLanguageProblems;
-	private double procentArticleTagged;
+	//private double procentArticleTagged;
 	private double procentRevisionHistory;
 	private double procentAuthorInformation;
 	private double procentProportionParagraphsWithCitations;
@@ -15,22 +17,23 @@ public class Article {
 	private double procentProportionUnregisteredEditorsWithSingleEdit;
 	private double procentProportionRegisteredEditorsWithEditFrequency;
 	private double procentRevisionCount;
+	private String words;
 	
 	public Article(){}
 	
 	public Article(double procentLeadSectionUnderstandable, double procentClearOfStruture,
-			double procentReferencesToReliableSources, double procentWwarningBanneraAtTop,
-			double procentLanguageProblems, double procentArticleTagged, double procentRevisionHistory,
+			double procentReferencesToReliableSources, 
+			double procentLanguageProblems, double procentRevisionHistory,
 			double procentAuthorInformation, double procentProportionParagraphsWithCitations, double procentArticleSize,
 			double procentProportionUnregisteredEditorsWithSingleEdit,
-			double procentProportionRegisteredEditorsWithEditFrequency, double procentRevisionCount) {
+			double procentProportionRegisteredEditorsWithEditFrequency, double procentRevisionCount, String words) {
 		super();
 		this.procentLeadSectionUnderstandable = procentLeadSectionUnderstandable;
 		this.procentClearOfStruture = procentClearOfStruture;
 		this.procentReferencesToReliableSources = procentReferencesToReliableSources;
-		this.procentWwarningBanneraAtTop = procentWwarningBanneraAtTop;
+		//this.procentWwarningBanneraAtTop = procentWwarningBanneraAtTop;
 		this.procentLanguageProblems = procentLanguageProblems;
-		this.procentArticleTagged = procentArticleTagged;
+		//this.procentArticleTagged = procentArticleTagged;
 		this.procentRevisionHistory = procentRevisionHistory;
 		this.procentAuthorInformation = procentAuthorInformation;
 		this.procentProportionParagraphsWithCitations = procentProportionParagraphsWithCitations;
@@ -38,6 +41,15 @@ public class Article {
 		this.procentProportionUnregisteredEditorsWithSingleEdit = procentProportionUnregisteredEditorsWithSingleEdit;
 		this.procentProportionRegisteredEditorsWithEditFrequency = procentProportionRegisteredEditorsWithEditFrequency;
 		this.procentRevisionCount = procentRevisionCount;
+		this.words=words;
+	}
+
+	public String getWords() {
+		return words;
+	}
+
+	public void setWords(String words) {
+		this.words = words;
 	}
 
 	public double getProcentLeadSectionUnderstandable() {
@@ -63,7 +75,7 @@ public class Article {
 	public void setProcentReferencesToReliableSources(double procentReferencesToReliableSources) {
 		this.procentReferencesToReliableSources = procentReferencesToReliableSources;
 	}
-
+	/*
 	public double getProcentWwarningBanneraAtTop() {
 		return procentWwarningBanneraAtTop;
 	}
@@ -71,7 +83,7 @@ public class Article {
 	public void setProcentWwarningBanneraAtTop(double procentWwarningBanneraAtTop) {
 		this.procentWwarningBanneraAtTop = procentWwarningBanneraAtTop;
 	}
-
+	*/
 	public double getProcentLanguageProblems() {
 		return procentLanguageProblems;
 	}
@@ -80,6 +92,7 @@ public class Article {
 		this.procentLanguageProblems = procentLanguageProblems;
 	}
 
+	/*
 	public double getProcentArticleTagged() {
 		return procentArticleTagged;
 	}
@@ -87,7 +100,7 @@ public class Article {
 	public void setProcentArticleTagged(double procentArticleTagged) {
 		this.procentArticleTagged = procentArticleTagged;
 	}
-
+	*/
 	public double getProcentRevisionHistory() {
 		return procentRevisionHistory;
 	}

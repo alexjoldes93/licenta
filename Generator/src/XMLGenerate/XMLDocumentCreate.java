@@ -30,14 +30,14 @@ public class XMLDocumentCreate {
 			Element element3 = new Element("procentReferencesToReliableSources");
 			element3.addContent(String.valueOf(this.article.getProcentReferencesToReliableSources()));
 			
-			Element element4 = new Element("procentWwarningBanneraAtTop");
-			element4.addContent(String.valueOf(this.article.getProcentWwarningBanneraAtTop()));
+			//Element element4 = new Element("procentWwarningBanneraAtTop");
+			//element4.addContent(String.valueOf(this.article.getProcentWwarningBanneraAtTop()));
 			
 			Element element5 = new Element("procentLanguageProblems");
 			element5.addContent(String.valueOf(this.article.getProcentLanguageProblems()));
 			
-			Element element6 = new Element("procentArticleTagged");
-			element6.addContent(String.valueOf(this.article.getProcentArticleTagged()));
+			//Element element6 = new Element("procentArticleTagged");
+			//element6.addContent(String.valueOf(this.article.getProcentArticleTagged()));
 			
 			Element element7 = new Element("procentRevisionHistory");
 			element7.addContent(String.valueOf(this.article.getProcentRevisionHistory()));
@@ -60,12 +60,15 @@ public class XMLDocumentCreate {
 			Element element13 = new Element("procentRevisionCount");
 			element13.addContent(String.valueOf(this.article.getProcentRevisionCount()));
 			
+			Element element14 = new Element("words");
+			element14.addContent(String.valueOf(this.article.getWords()));
+			
 			root.addContent(element1);
 			root.addContent(element2);
 			root.addContent(element3);
-			root.addContent(element4);
+			//root.addContent(element4);
 			root.addContent(element5);
-			root.addContent(element6);
+			//root.addContent(element6);
 			root.addContent(element7);
 			root.addContent(element8);
 			root.addContent(element9);
@@ -73,6 +76,7 @@ public class XMLDocumentCreate {
 			root.addContent(element11);
 			root.addContent(element12);
 			root.addContent(element13);
+			root.addContent(element14);
 			
 			
 			XMLOutputter xmlOutput = new XMLOutputter();

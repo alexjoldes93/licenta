@@ -17,7 +17,7 @@ public class BasicOperations {
 			if(a.getElements().get(i)==b.getElements().get(i)){
 				result.getVelocity().add(0);
 			}else{
-				if(Math.abs(a.getElements().get(i) - b.getElements().get(i))>50){
+				if(Math.abs(a.getElements().get(i) - b.getElements().get(i))<50){
 					result.getVelocity().add(-1);
 				}
 				else
@@ -91,6 +91,12 @@ public class BasicOperations {
 		
 		for(int i=0;i<v.getVelocity().size();i++){
 			int rez = c*v.getVelocity().get(i);
+			//normalizare
+			if(rez >1)
+				rez=1;
+			else
+				if(rez<-1)
+					rez=-1;
 			result.getVelocity().add(rez);
 		}
 		
@@ -105,7 +111,7 @@ public class BasicOperations {
 				result.getElements().add(p.getElements().get(i));
 			else{
 				if(v.getVelocity().get(i)==-1){
-					result.getElements().add(0.0);
+					result.getElements().add(100.0-p.getElements().get(i));
 				}
 				else{
 					result.getElements().add((double) RandomValue());

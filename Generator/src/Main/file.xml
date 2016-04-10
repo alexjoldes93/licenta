@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>30.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>44.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>22.0</procentReferencesToReliableSources>
-  <procentWwarningBanneraAtTop>0.0</procentWwarningBanneraAtTop>
-  <procentLanguageProblems>84.0</procentLanguageProblems>
-  <procentArticleTagged>100.0</procentArticleTagged>
-  <procentRevisionHistory>15.0</procentRevisionHistory>
-  <procentAuthorInformation>61.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>30.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>84.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>11.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>80.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>8.0</procentRevisionCount>
+  <procentLeadSectionUnderstandable>16.0</procentLeadSectionUnderstandable>
+  <procentClearOfStruture>0.0</procentClearOfStruture>
+  <procentReferencesToReliableSources>56.0</procentReferencesToReliableSources>
+  <procentLanguageProblems>87.0</procentLanguageProblems>
+  <procentRevisionHistory>6.0</procentRevisionHistory>
+  <procentAuthorInformation>4.0</procentAuthorInformation>
+  <procentProportionParagraphsWithCitations>68.0</procentProportionParagraphsWithCitations>
+  <procentArticleSize>27.0</procentArticleSize>
+  <procentProportionUnregisteredEditorsWithSingleEdit>21.0</procentProportionUnregisteredEditorsWithSingleEdit>
+  <procentProportionRegisteredEditorsWithEditFrequency>58.0</procentProportionRegisteredEditorsWithEditFrequency>
+  <procentRevisionCount>64.0</procentRevisionCount>
 </article>
