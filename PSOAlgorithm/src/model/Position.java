@@ -8,7 +8,7 @@ public class Position {
 	private List<Double> elements;
 	
 	public Position(){
-		elements = new ArrayList();
+		elements = new ArrayList<Double>();
 	}
 
 	public List<Double> getElements() {

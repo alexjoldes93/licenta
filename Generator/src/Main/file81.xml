@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>62.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>60.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>20.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>12.0</procentLanguageProblems>
-  <procentRevisionHistory>58.0</procentRevisionHistory>
-  <procentAuthorInformation>70.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>3.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>73.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>22.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>44.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>1.0</procentRevisionCount>
-  <words>binar,sange,java,paracetamol,</words>
+  <details>
+    <articleName>Article_81</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>83.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>71.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>66.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>28.0</procentLanguageProblems>
+    <procentRevisionHistory>69.0</procentRevisionHistory>
+    <procentAuthorInformation>94.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>22.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>50.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>11.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>64.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>96.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>ficat,predictie,cancer,paracetamol,</words>
+  </domainWords>
 </article>

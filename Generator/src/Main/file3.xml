@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>4.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>33.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>93.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>5.0</procentLanguageProblems>
-  <procentRevisionHistory>20.0</procentRevisionHistory>
-  <procentAuthorInformation>46.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>4.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>55.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>96.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>6.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>24.0</procentRevisionCount>
-  <words>inima,sange,metaeuristica,pso,</words>
+  <details>
+    <articleName>Malaysia Airlines Flight 370</articleName>
+  </details>
+  <procents>
+    <procentClearOfStruture>57.89</procentClearOfStruture>
+    <procentReferencesToReliableSources>44.40</procentReferencesToReliableSources>
+    <procentRevisionHistory>32.81</procentRevisionHistory>
+    <procentProportionParagraphsWithCitations>39.28</procentProportionParagraphsWithCitations>
+    <procentArticleSize>55.23</procentArticleSize>
+    <procentProportionRegisteredEditorsWithEditFrequency>69.3</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>32.81</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,predictie,metaeuristica,parasinus,</words>
+  </domainWords>
 </article>

@@ -4,6 +4,8 @@ import java.util.List;
 
 public class Article {
 	
+	private String name;
+	
 	private double procentLeadSectionUnderstandable;
 	private double procentClearOfStruture;
 	private double procentReferencesToReliableSources;
@@ -21,13 +23,14 @@ public class Article {
 	
 	public Article(){}
 	
-	public Article(double procentLeadSectionUnderstandable, double procentClearOfStruture,
+	public Article(String name,double procentLeadSectionUnderstandable, double procentClearOfStruture,
 			double procentReferencesToReliableSources, 
 			double procentLanguageProblems, double procentRevisionHistory,
 			double procentAuthorInformation, double procentProportionParagraphsWithCitations, double procentArticleSize,
 			double procentProportionUnregisteredEditorsWithSingleEdit,
 			double procentProportionRegisteredEditorsWithEditFrequency, double procentRevisionCount, String words) {
 		super();
+		this.name=name;
 		this.procentLeadSectionUnderstandable = procentLeadSectionUnderstandable;
 		this.procentClearOfStruture = procentClearOfStruture;
 		this.procentReferencesToReliableSources = procentReferencesToReliableSources;
@@ -42,6 +45,15 @@ public class Article {
 		this.procentProportionRegisteredEditorsWithEditFrequency = procentProportionRegisteredEditorsWithEditFrequency;
 		this.procentRevisionCount = procentRevisionCount;
 		this.words=words;
+	}
+
+	
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public String getWords() {

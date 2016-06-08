@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>22.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>4.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>30.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>77.0</procentLanguageProblems>
-  <procentRevisionHistory>57.0</procentRevisionHistory>
-  <procentAuthorInformation>37.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>85.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>19.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>37.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>73.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>47.0</procentRevisionCount>
-  <words>inteligenta artificiala,predictie,metaeuristica,calculator,</words>
+  <details>
+    <articleName>Article_61</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>71.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>35.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>23.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>20.0</procentLanguageProblems>
+    <procentRevisionHistory>66.0</procentRevisionHistory>
+    <procentAuthorInformation>12.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>44.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>2.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>23.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>32.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>94.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inima,functie,migrena,pso,</words>
+  </domainWords>
 </article>

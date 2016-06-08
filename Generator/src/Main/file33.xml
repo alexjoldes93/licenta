@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>79.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>46.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>17.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>82.0</procentLanguageProblems>
-  <procentRevisionHistory>68.0</procentRevisionHistory>
-  <procentAuthorInformation>51.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>2.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>46.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>5.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>0.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>33.0</procentRevisionCount>
-  <words>inteligenta artificiala,fitness,cancer,calculator,</words>
+  <details>
+    <articleName>Article_33</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>33.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>39.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>52.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>53.0</procentLanguageProblems>
+    <procentRevisionHistory>72.0</procentRevisionHistory>
+    <procentAuthorInformation>9.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>23.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>27.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>29.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>3.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>82.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inima,functie,java,pso,</words>
+  </domainWords>
 </article>

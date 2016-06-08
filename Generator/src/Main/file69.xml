@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>12.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>71.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>85.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>54.0</procentLanguageProblems>
-  <procentRevisionHistory>76.0</procentRevisionHistory>
-  <procentAuthorInformation>95.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>64.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>70.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>67.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>92.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>39.0</procentRevisionCount>
-  <words>binar,functie,cancer,ui,</words>
+  <details>
+    <articleName>Article_69</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>10.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>50.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>91.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>58.0</procentLanguageProblems>
+    <procentRevisionHistory>9.0</procentRevisionHistory>
+    <procentAuthorInformation>98.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>92.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>2.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>16.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>85.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>74.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>ficat,sange,c#,sgpso,</words>
+  </domainWords>
 </article>

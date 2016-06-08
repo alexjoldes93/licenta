@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>44.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>85.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>9.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>33.0</procentLanguageProblems>
-  <procentRevisionHistory>81.0</procentRevisionHistory>
-  <procentAuthorInformation>79.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>48.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>69.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>6.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>2.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>88.0</procentRevisionCount>
-  <words>inima,fitness,metaeuristica,calculator,</words>
+  <details>
+    <articleName>Article_62</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>65.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>20.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>57.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>32.0</procentLanguageProblems>
+    <procentRevisionHistory>45.0</procentRevisionHistory>
+    <procentAuthorInformation>70.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>54.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>76.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>72.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>83.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>63.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,vena,java,ui,</words>
+  </domainWords>
 </article>

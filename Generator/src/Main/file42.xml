@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>32.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>47.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>22.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>36.0</procentLanguageProblems>
-  <procentRevisionHistory>55.0</procentRevisionHistory>
-  <procentAuthorInformation>67.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>6.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>24.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>47.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>43.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>73.0</procentRevisionCount>
-  <words>sisteme complexe,functie,cancer,paracetamol,</words>
+  <details>
+    <articleName>Article_42</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>30.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>99.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>37.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>16.0</procentLanguageProblems>
+    <procentRevisionHistory>44.0</procentRevisionHistory>
+    <procentAuthorInformation>59.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>72.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>2.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>14.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>0.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>73.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,sange,migrena,ui,</words>
+  </domainWords>
 </article>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>11.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>36.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>73.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>56.0</procentLanguageProblems>
-  <procentRevisionHistory>62.0</procentRevisionHistory>
-  <procentAuthorInformation>58.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>3.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>10.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>45.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>29.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>52.0</procentRevisionCount>
-  <words>ficat,fitness,migrena,sgpso,</words>
+  <details>
+    <articleName>Article_29</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>63.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>61.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>8.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>41.0</procentLanguageProblems>
+    <procentRevisionHistory>56.0</procentRevisionHistory>
+    <procentAuthorInformation>10.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>82.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>53.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>94.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>48.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>46.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inteligenta artificiala,sange,c#,sgpso,</words>
+  </domainWords>
 </article>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>99.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>97.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>3.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>95.0</procentLanguageProblems>
-  <procentRevisionHistory>82.0</procentRevisionHistory>
-  <procentAuthorInformation>31.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>51.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>90.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>33.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>69.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>35.0</procentRevisionCount>
-  <words>inteligenta artificiala,sange,metaeuristica,parasinus,</words>
+  <details>
+    <articleName>Article_80</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>65.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>42.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>97.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>67.0</procentLanguageProblems>
+    <procentRevisionHistory>91.0</procentRevisionHistory>
+    <procentAuthorInformation>2.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>64.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>17.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>5.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>44.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>74.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,fitness,euristica,parasinus,</words>
+  </domainWords>
 </article>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>79.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>85.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>89.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>28.0</procentLanguageProblems>
-  <procentRevisionHistory>22.0</procentRevisionHistory>
-  <procentAuthorInformation>86.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>43.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>3.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>86.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>66.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>68.0</procentRevisionCount>
-  <words>inteligenta artificiala,vena,metaeuristica,pso,</words>
+  <details>
+    <articleName>Article_31</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>66.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>68.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>26.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>3.0</procentLanguageProblems>
+    <procentRevisionHistory>64.0</procentRevisionHistory>
+    <procentAuthorInformation>87.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>79.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>31.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>36.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>99.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>73.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,vena,migrena,sgpso,</words>
+  </domainWords>
 </article>

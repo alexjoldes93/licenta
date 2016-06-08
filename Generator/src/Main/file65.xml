@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>45.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>80.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>80.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>71.0</procentLanguageProblems>
-  <procentRevisionHistory>65.0</procentRevisionHistory>
-  <procentAuthorInformation>58.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>14.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>8.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>16.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>18.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>58.0</procentRevisionCount>
-  <words>ficat,sange,metaeuristica,sgpso,</words>
+  <details>
+    <articleName>Article_65</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>82.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>66.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>78.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>82.0</procentLanguageProblems>
+    <procentRevisionHistory>96.0</procentRevisionHistory>
+    <procentAuthorInformation>96.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>54.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>15.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>93.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>47.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>52.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>ficat,vena,cancer,ui,</words>
+  </domainWords>
 </article>

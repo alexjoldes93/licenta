@@ -5,6 +5,7 @@ public class Particle {
 	private Velocity velocity;
 	private Position position;
 	private Position localBest;
+	private String articleName;
 	
 	public Particle(){
 		
@@ -14,6 +15,15 @@ public class Particle {
 		this.velocity = velocity;
 		this.position = position;
 		this.localBest = localBest;
+	}
+
+	
+	public String getArticleName() {
+		return articleName;
+	}
+
+	public void setArticleName(String articleName) {
+		this.articleName = articleName;
 	}
 
 	public Velocity getVelocity() {

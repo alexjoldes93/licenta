@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>21.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>87.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>43.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>84.0</procentLanguageProblems>
-  <procentRevisionHistory>80.0</procentRevisionHistory>
-  <procentAuthorInformation>40.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>58.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>97.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>58.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>61.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>96.0</procentRevisionCount>
-  <words>ficat,algoritm,java,paracetamol,</words>
+  <details>
+    <articleName>Article_93</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>43.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>33.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>3.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>14.0</procentLanguageProblems>
+    <procentRevisionHistory>59.0</procentRevisionHistory>
+    <procentAuthorInformation>68.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>72.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>85.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>35.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>80.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>57.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inteligenta artificiala,algoritm,euristica,parasinus,</words>
+  </domainWords>
 </article>

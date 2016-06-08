@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>93.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>37.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>54.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>4.0</procentLanguageProblems>
-  <procentRevisionHistory>73.0</procentRevisionHistory>
-  <procentAuthorInformation>4.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>2.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>14.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>21.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>23.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>55.0</procentRevisionCount>
-  <words>ficat,vena,metaeuristica,paracetamol,</words>
+  <details>
+    <articleName>Article_89</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>76.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>81.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>97.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>45.0</procentLanguageProblems>
+    <procentRevisionHistory>8.0</procentRevisionHistory>
+    <procentAuthorInformation>72.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>23.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>65.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>61.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>98.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>55.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>sisteme complexe,algoritm,euristica,paracetamol,</words>
+  </domainWords>
 </article>

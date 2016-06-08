@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>1.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>72.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>85.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>2.0</procentLanguageProblems>
-  <procentRevisionHistory>28.0</procentRevisionHistory>
-  <procentAuthorInformation>43.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>77.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>15.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>46.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>10.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>56.0</procentRevisionCount>
-  <words>ficat,fitness,metaeuristica,calculator,</words>
+  <details>
+    <articleName>Article_82</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>72.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>98.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>12.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>11.0</procentLanguageProblems>
+    <procentRevisionHistory>53.0</procentRevisionHistory>
+    <procentAuthorInformation>98.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>68.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>88.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>74.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>31.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>33.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>sisteme complexe,predictie,cancer,sgpso,</words>
+  </domainWords>
 </article>

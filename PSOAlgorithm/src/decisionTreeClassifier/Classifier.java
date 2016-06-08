@@ -24,8 +24,8 @@ public class Classifier {
 		this.files=filesName;
 	}
 	
-	public String[] getFilesFromDomain(String domain,String fileDataSET){
-		String[] resultFiles=null;
+	public List<String> getFilesFromDomain(String domain,String fileDataSET){
+		List<String> resultFiles=new ArrayList<String>();
 		int index=0;
 		
 		for(String s:files){
@@ -44,6 +44,7 @@ public class Classifier {
 				dataset= reader.readFile(fileDataSET);
 				
 				//create attributes (-1 deoarece exista doar cuvintele fara rezultat)
+				//se citesc cele din fisirele de intrare
 				List<Attribute> attributes = new ArrayList<Attribute>();
 				for(int i=0;i<attributesName.size()-1;i++){
 					Attribute a = new Attribute(attributesName.get(i),new ArrayList<>(Arrays.asList(wordsFromFile[i])));
@@ -53,9 +54,13 @@ public class Classifier {
 				DecisionTreeID3 id3 = new DecisionTreeID3(dataset);
 				TreeNode root = id3.buildTree("result", attributes);
 				id3.getResult(root);
-				//resultFiles[index]=s;
-				//index++;
-				System.out.println(id3.result.getName());
+				System.out.println("Articolul_"+index+" = "+id3.result.getName());
+				if(id3.result.getName().equals(domain)){
+					resultFiles.add(s);
+				}
+				
+				index++;
+				
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -80,9 +85,23 @@ public class Classifier {
 			jdomDoc = ddb.build(doc);
 			
 			Element root = jdomDoc.getRootElement();
+			List<Element> children = root.getChildren();
 			
-			String words = root.getChildText("words");
-			result=words.split(",");
+			for(Element child:children){
+				if(child.getName().equals("domainWords")){
+					List<Element> allChildren = child.getChildren();
+					for(Element e:allChildren)
+					{
+						//System.out.println(child.getText());
+						if(e.getName().equals("words")){
+							String words = e.getText();
+							result=words.split(",");
+						}
+						
+					}
+				}
+			}
+			
 			
 			} catch (IOException io) {
 				System.out.println(io.getMessage());

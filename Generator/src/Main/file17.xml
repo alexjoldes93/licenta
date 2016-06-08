@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>29.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>20.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>9.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>23.0</procentLanguageProblems>
-  <procentRevisionHistory>17.0</procentRevisionHistory>
-  <procentAuthorInformation>30.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>10.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>10.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>30.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>48.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>55.0</procentRevisionCount>
-  <words>ficat,fitness,migrena,calculator,</words>
+  <details>
+    <articleName>Mures River</articleName>
+  </details>
+  <procents>
+     <procentClearOfStruture>36.84</procentClearOfStruture>
+    <procentReferencesToReliableSources>35.81</procentReferencesToReliableSources>
+    <procentRevisionHistory>1.34</procentRevisionHistory>
+    <procentProportionParagraphsWithCitations>3.84</procentProportionParagraphsWithCitations>
+    <procentArticleSize>18.59</procentArticleSize>
+    <procentProportionRegisteredEditorsWithEditFrequency>69.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>0.34</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,predictie,euristica,sgpso,</words>
+  </domainWords>
 </article>

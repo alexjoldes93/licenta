@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>95.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>73.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>30.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>93.0</procentLanguageProblems>
-  <procentRevisionHistory>17.0</procentRevisionHistory>
-  <procentAuthorInformation>28.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>73.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>17.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>88.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>41.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>72.0</procentRevisionCount>
-  <words>inteligenta artificiala,functie,java,sgpso,</words>
+  <details>
+    <articleName>Article_95</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>8.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>30.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>94.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>58.0</procentLanguageProblems>
+    <procentRevisionHistory>75.0</procentRevisionHistory>
+    <procentAuthorInformation>44.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>92.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>42.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>81.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>85.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>44.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>sisteme complexe,predictie,java,parasinus,</words>
+  </domainWords>
 </article>

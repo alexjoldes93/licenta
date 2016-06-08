@@ -16,37 +16,67 @@ import org.xml.sax.SAXException;
 
 public class JDOMParser {
 	
-	public JDOMParser(){
-		
-	}
+	private Element root;
 	
-	public Position parse(String file) throws ParserConfigurationException, SAXException{
-		Position positionRead = new Position();
-		
-		try{
-			File f =new File(file);
-			org.jdom2.Document jdomDoc;
-			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-			DocumentBuilder db = dbf.newDocumentBuilder();
-			Document doc = db.parse(f);
-			
+	public JDOMParser(String file){
+		File f =new File(file);
+		org.jdom2.Document jdomDoc;
+		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+		DocumentBuilder db = null;
+		Document doc = null;
+		try {
+			db = dbf.newDocumentBuilder();
+			doc = db.parse(f);
 			DOMBuilder ddb = new DOMBuilder();
 			jdomDoc = ddb.build(doc);
 			
-			Element root = jdomDoc.getRootElement();
-			List<Element> allChildren = root.getChildren();
-			
-			for(int i =0;i<allChildren.size()-1;i++)
-			{
-				//System.out.println(child.getText());
-				positionRead.getElements().add(Double.parseDouble(allChildren.get(i).getText()));
+			this.root = jdomDoc.getRootElement();
+		} catch (ParserConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}catch (SAXException | IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	public Position parseForPositions() throws ParserConfigurationException, SAXException{
+		Position positionRead = new Position();
+		
+		List<Element> children = root.getChildren();
+		
+		for(Element child:children){
+			if(child.getName().equals("procents")){
+				List<Element> allChildren = child.getChildren();
+				for(int i =0;i<allChildren.size();i++)
+				{
+					//System.out.println(child.getText());
+					positionRead.getElements().add(Double.parseDouble(allChildren.get(i).getText()));
+				}
 			}
-			
-			} catch (IOException io) {
-				System.out.println(io.getMessage());
-			  }
+		}
 		
 		return positionRead;
+	}
+	
+	public String parseForArticleName(){
+		String name="";
+		
+		List<Element> children = root.getChildren();
+		
+		for(Element child:children){
+			if(child.getName().equals("details")){
+				List<Element> allChildren = child.getChildren();
+				for(Element e:allChildren){
+					if(e.getName().equals("articleName")){
+						name=e.getText();
+					}
+				}
+			}
+		}
+		
+		return name;
 	}
 
 }

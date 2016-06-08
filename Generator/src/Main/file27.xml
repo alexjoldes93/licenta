@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>48.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>6.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>75.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>4.0</procentLanguageProblems>
-  <procentRevisionHistory>63.0</procentRevisionHistory>
-  <procentAuthorInformation>5.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>97.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>26.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>6.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>43.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>8.0</procentRevisionCount>
-  <words>ficat,algoritm,migrena,ui,</words>
+  <details>
+    <articleName>Article_27</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>41.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>86.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>87.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>96.0</procentLanguageProblems>
+    <procentRevisionHistory>16.0</procentRevisionHistory>
+    <procentAuthorInformation>59.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>84.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>84.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>80.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>20.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>59.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inima,algoritm,c#,sgpso,</words>
+  </domainWords>
 </article>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>87.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>57.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>84.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>33.0</procentLanguageProblems>
-  <procentRevisionHistory>64.0</procentRevisionHistory>
-  <procentAuthorInformation>81.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>51.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>84.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>21.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>96.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>41.0</procentRevisionCount>
-  <words>cod,vena,euristica,pso,</words>
+  <details>
+    <articleName>Article_77</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>43.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>47.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>38.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>0.0</procentLanguageProblems>
+    <procentRevisionHistory>47.0</procentRevisionHistory>
+    <procentAuthorInformation>26.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>45.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>45.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>34.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>83.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>43.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inima,algoritm,java,pso,</words>
+  </domainWords>
 </article>

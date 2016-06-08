@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>61.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>58.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>32.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>65.0</procentLanguageProblems>
-  <procentRevisionHistory>88.0</procentRevisionHistory>
-  <procentAuthorInformation>12.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>76.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>16.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>78.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>89.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>46.0</procentRevisionCount>
-  <words>inima,fitness,migrena,parasinus,</words>
+  <details>
+    <articleName>Paris</articleName>
+  </details>
+  <procents>
+    <procentClearOfStruture>100.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>42.28</procentReferencesToReliableSources>
+    <procentRevisionHistory>56.77</procentRevisionHistory>
+    <procentProportionParagraphsWithCitations>25.00</procentProportionParagraphsWithCitations>
+    <procentArticleSize>72.24</procentArticleSize>
+    <procentProportionRegisteredEditorsWithEditFrequency>59.5</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>56.77</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,algoritm,euristica,paracetamol,</words>
+  </domainWords>
 </article>

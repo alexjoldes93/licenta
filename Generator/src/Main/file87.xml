@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>9.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>36.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>52.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>34.0</procentLanguageProblems>
-  <procentRevisionHistory>52.0</procentRevisionHistory>
-  <procentAuthorInformation>91.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>33.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>82.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>45.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>39.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>84.0</procentRevisionCount>
-  <words>sisteme complexe,vena,java,paracetamol,</words>
+  <details>
+    <articleName>Article_87</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>48.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>84.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>30.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>16.0</procentLanguageProblems>
+    <procentRevisionHistory>8.0</procentRevisionHistory>
+    <procentAuthorInformation>63.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>43.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>21.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>79.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>75.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>64.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>inteligenta artificiala,fitness,euristica,parasinus,</words>
+  </domainWords>
 </article>

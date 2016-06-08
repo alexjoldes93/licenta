@@ -45,7 +45,7 @@ public class DecisionTreeID3 {
 	
 	//pentru fiecare rand din dataset verific valoarea de la
 	//rezultatul atributului cu acelasi nume (mai exact numar 
-	//pentru fiecare domeniu de cate ori apare un cuvant)
+	//pentru fiecare domeniu de cate ori apare valoarea data pentru atributul dat ca parametru)
 	private HashMap<String,Integer> getValuesToAttribute(Attribute attribute,String value){
 		HashMap<String,Integer> counters=new HashMap<String, Integer>();
 		List<String>domains = new ArrayList<String>();
@@ -57,6 +57,7 @@ public class DecisionTreeID3 {
 		    }
 			
 		}
+		//pu intr-un hashMap domeniul si nr de aparitii in acel domeniu
 		for(String s:domains){
 			int contor=0;
 			for(String ss:domains){			
@@ -99,7 +100,7 @@ public class DecisionTreeID3 {
 	}
 	
 	private Attribute getBestAttribute(List<Attribute> attributes){
-		double maxGain=0.0;
+		double maxGain=Integer.MIN_VALUE;
 		Attribute result=null;
 		
 		for(Attribute a:attributes){
@@ -182,7 +183,7 @@ public class DecisionTreeID3 {
 		this.total=this.dataset.size();
 		//System.out.println("Total"+total);
 		this.targetAttribute=targetAttribute;
-		//System.out.println("Target Attribute "+this.targetAttribute);
+		//System.out.println("Target Attribute: "+this.targetAttribute);
 		
 		
 		List<Integer> values=this.putValuesOfHashMapInList(nrOfOccurance);
@@ -190,7 +191,7 @@ public class DecisionTreeID3 {
 		//System.out.println("EntropySet "+this.entropySet);
 		
 		Attribute bestAttribute=this.getBestAttribute(attributes);
-		//System.out.println("Best Attribute"+bestAttribute.name);
+		//System.out.println("Best Attribute: "+bestAttribute.name);
 		
 		TreeNode root = new TreeNode(bestAttribute);
 		

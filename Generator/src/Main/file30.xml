@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>16.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>21.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>76.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>71.0</procentLanguageProblems>
-  <procentRevisionHistory>14.0</procentRevisionHistory>
-  <procentAuthorInformation>60.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>84.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>23.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>49.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>67.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>87.0</procentRevisionCount>
-  <words>inima,predictie,cancer,calculator,</words>
+  <details>
+    <articleName>Article_30</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>22.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>83.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>36.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>80.0</procentLanguageProblems>
+    <procentRevisionHistory>29.0</procentRevisionHistory>
+    <procentAuthorInformation>78.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>4.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>16.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>35.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>34.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>31.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,algoritm,c#,pso,</words>
+  </domainWords>
 </article>

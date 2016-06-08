@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>27.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>38.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>23.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>15.0</procentLanguageProblems>
-  <procentRevisionHistory>31.0</procentRevisionHistory>
-  <procentAuthorInformation>38.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>10.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>27.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>35.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>88.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>29.0</procentRevisionCount>
-  <words>ficat,predictie,cancer,pso,</words>
+  <details>
+    <articleName>Olympic Games</articleName>
+  </details>
+  <procents>
+ 	 <procentClearOfStruture>89.47</procentClearOfStruture>
+    <procentReferencesToReliableSources>29.49</procentReferencesToReliableSources>
+    <procentRevisionHistory>22.40</procentRevisionHistory>
+    <procentProportionParagraphsWithCitations>42.73</procentProportionParagraphsWithCitations>
+    <procentArticleSize>65.90</procentArticleSize>
+    <procentProportionRegisteredEditorsWithEditFrequency>52.2</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>78.9</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>ficat,sange,euristica,calculator,</words>
+  </domainWords>
 </article>

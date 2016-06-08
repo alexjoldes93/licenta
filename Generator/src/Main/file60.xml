@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>93.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>18.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>7.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>51.0</procentLanguageProblems>
-  <procentRevisionHistory>81.0</procentRevisionHistory>
-  <procentAuthorInformation>67.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>55.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>86.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>88.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>86.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>7.0</procentRevisionCount>
-  <words>inteligenta artificiala,algoritm,c#,calculator,</words>
+  <details>
+    <articleName>Article_60</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>4.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>91.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>67.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>47.0</procentLanguageProblems>
+    <procentRevisionHistory>15.0</procentRevisionHistory>
+    <procentAuthorInformation>46.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>58.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>18.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>84.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>31.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>76.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,functie,java,ui,</words>
+  </domainWords>
 </article>

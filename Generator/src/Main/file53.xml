@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>23.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>97.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>22.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>90.0</procentLanguageProblems>
-  <procentRevisionHistory>70.0</procentRevisionHistory>
-  <procentAuthorInformation>69.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>41.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>18.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>37.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>83.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>71.0</procentRevisionCount>
-  <words>binar,predictie,metaeuristica,calculator,</words>
+  <details>
+    <articleName>Article_53</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>59.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>45.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>51.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>78.0</procentLanguageProblems>
+    <procentRevisionHistory>53.0</procentRevisionHistory>
+    <procentAuthorInformation>0.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>60.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>71.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>26.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>15.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>90.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,vena,cancer,calculator,</words>
+  </domainWords>
 </article>

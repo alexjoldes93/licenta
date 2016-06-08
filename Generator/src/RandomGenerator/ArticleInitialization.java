@@ -17,7 +17,11 @@ public class ArticleInitialization {
 		this.article=article;
 	}
 	
-	public Article fillArticleCharacteristicValues(){
+	public Article fillArticleCharacteristicValues(String name){
+		
+		//intialize article name
+		this.article.setName("Article_"+name);
+		
 		Random rand = new Random();
 		int  n = rand.nextInt(100);
 		System.out.println("\n"+n);

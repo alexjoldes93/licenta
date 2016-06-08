@@ -10,12 +10,12 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		Article a = new Article();
-		int n=100;
+		int n=500;
 		for(int i=0;i<n;i++){
 		
 		ArticleInitialization init = new ArticleInitialization(a);
 		
-		a = init.fillArticleCharacteristicValues();
+		a = init.fillArticleCharacteristicValues(Integer.toString(i));
 		
 		XMLDocumentCreate doc = new XMLDocumentCreate(a);
 		

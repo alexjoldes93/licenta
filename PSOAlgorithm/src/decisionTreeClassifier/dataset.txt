@@ -1,27 +1,432 @@
+binar,algoritm,java,calculator,informatica
+binar,algoritm,java,ui,informatica
+binar,algoritm,c#,calculator,informatica
+binar,algoritm,c#,ui,informatica
+binar,functie,c#,ui,informatica
+binar,functie,c#,calculator,informatica
+binar,functie,java,calculator,informatica
+binar,functie,java,ui,informatica
+cod,algoritm,java,calculator,informatica
+cod,algoritm,java,ui,informatica
+cod,algoritm,c#,calculator,informatica
+cod,algoritm,c#,ui,informatica
+cod,functie,c#,ui,informatica
+cod,functie,c#,calculator,informatica
+cod,functie,java,calculator,informatica
+cod,functie,java,ui,informatica
+binar,algoritm,java,pso,informatica
+binar,algoritm,java,sgpso,informatica
+binar,algoritm,c#,pso,informatica
+binar,algoritm,c#,sgpso,informatica
+binar,functie,c#,sgpso,informatica
+binar,functie,c#,pso,informatica
+binar,functie,java,pso,informatica
+binar,functie,java,sgpso,informatica
+cod,algoritm,java,pso,informatica
+cod,algoritm,java,sgpso,informatica
+cod,algoritm,c#,pso,informatica
+cod,algoritm,c#,sgpso,informatica
+cod,functie,c#,sgpso,informatica
+cod,functie,c#,pso,informatica
+cod,functie,java,pso,informatica
+cod,functie,java,sgpso,informatica
+binar,algoritm,java,paracetamol,informatica
+binar,algoritm,java,parasinus,informatica
+binar,algoritm,c#,paracetamol,informatica
+binar,algoritm,c#,parasinus,informatica
+binar,functie,c#,parasinus,informatica
+binar,functie,c#,paracetamol,informatica
+binar,functie,java,paracetamol,informatica
+binar,functie,java,parasinus,informatica
+cod,algoritm,java,paracetamol,informatica
+cod,algoritm,java,parasinus,informatica
+cod,algoritm,c#,paracetamol,informatica
+cod,algoritm,c#,parasinus,informatica
+cod,functie,c#,parasinus,informatica
+cod,functie,c#,paracetamol,informatica
+cod,functie,java,paracetamol,informatica
+cod,functie,java,parasinus,informatica
+binar,algoritm,metaeuristica,calculator,informatica
+binar,algoritm,metaeuristica,ui,informatica
+binar,algoritm,euristica,calculator,informatica
+binar,algoritm,euristica,ui,informatica
+binar,functie,euristica,ui,informatica
+binar,functie,euristica,calculator,informatica
+binar,functie,metaeuristica,calculator,informatica
+binar,functie,metaeuristica,ui,informatica
+cod,algoritm,metaeuristica,calculator,informatica
+cod,algoritm,metaeuristica,ui,informatica
+cod,algoritm,euristica,calculator,informatica
+cod,algoritm,euristica,ui,informatica
+cod,functie,euristica,ui,informatica
+cod,functie,euristica,calculator,informatica
+cod,functie,metaeuristica,calculator,informatica
+cod,functie,metaeuristica,ui,informatica
+binar,algoritm,metaeuristica,pso,informatica
+binar,algoritm,metaeuristica,sgpso,informatica
+binar,algoritm,euristica,pso,informatica
+binar,algoritm,euristica,sgpso,informatica
+binar,functie,euristica,sgpso,informatica
+binar,functie,euristica,pso,informatica
+binar,functie,metaeuristica,pso,informatica
+binar,functie,metaeuristica,sgpso,informatica
+cod,algoritm,metaeuristica,pso,informatica
+cod,algoritm,metaeuristica,sgpso,informatica
+cod,algoritm,euristica,pso,informatica
+cod,algoritm,euristica,sgpso,informatica
+cod,functie,euristica,sgpso,informatica
+cod,functie,euristica,pso,informatica
+cod,functie,metaeuristica,pso,informatica
+cod,functie,metaeuristica,sgpso,informatica
+binar,algoritm,metaeuristica,paracetamol,informatica
+binar,algoritm,metaeuristica,parasinus,informatica
+binar,algoritm,euristica,paracetamol,informatica
+binar,algoritm,euristica,parasinus,informatica
+binar,functie,euristica,parasinus,informatica
+binar,functie,euristica,paracetamol,informatica
+binar,functie,metaeuristica,paracetamol,informatica
+binar,functie,metaeuristica,parasinus,informatica
+cod,algoritm,metaeuristica,paracetamol,informatica
+cod,algoritm,metaeuristica,parasinus,informatica
+cod,algoritm,euristica,paracetamol,informatica
+cod,algoritm,euristica,parasinus,informatica
+cod,functie,euristica,parasinus,informatica
+cod,functie,euristica,paracetamol,informatica
+cod,functie,metaeuristica,paracetamol,informatica
+cod,functie,metaeuristica,parasinus,informatica
+binar,algoritm,cancer,calculator,informatica
+binar,algoritm,cancer,ui,informatica
+binar,algoritm,migrena,calculator,informatica
+binar,algoritm,migrena,ui,informatica
+binar,functie,migrena,ui,informatica
+binar,functie,migrena,calculator,informatica
+binar,functie,cancer,calculator,informatica
+binar,functie,cancer,ui,informatica
+cod,algoritm,cancer,calculator,informatica
+cod,algoritm,cancer,ui,informatica
+cod,algoritm,migrena,calculator,informatica
+cod,algoritm,migrena,ui,informatica
+cod,functie,migrena,ui,informatica
+cod,functie,migrena,calculator,informatica
+cod,functie,cancer,calculator,informatica
+cod,functie,cancer,ui,informatica
+binar,algoritm,cancer,pso,informatica
+binar,algoritm,cancer,sgpso,informatica
+binar,algoritm,migrena,pso,informatica
+binar,algoritm,migrena,sgpso,informatica
+binar,functie,migrena,sgpso,informatica
+binar,functie,migrena,pso,informatica
+binar,functie,cancer,pso,informatica
+binar,functie,cancer,sgpso,informatica
+cod,algoritm,cancer,pso,informatica
+cod,algoritm,cancer,sgpso,informatica
+cod,algoritm,migrena,pso,informatica
+cod,algoritm,migrena,sgpso,informatica
+cod,functie,migrena,sgpso,informatica
+cod,functie,migrena,pso,informatica
+cod,functie,cancer,pso,informatica
+cod,functie,cancer,sgpso,informatica
+binar,algoritm,cancer,paracetamol,informatica
+binar,algoritm,cancer,parasinus,informatica
+binar,algoritm,migrena,paracetamol,informatica
+binar,algoritm,migrena,parasinus,informatica
+binar,functie,migrena,parasinus,informatica
+binar,functie,migrena,paracetamol,informatica
+binar,functie,cancer,paracetamol,informatica
+binar,functie,cancer,parasinus,informatica
+cod,algoritm,cancer,paracetamol,informatica
+cod,algoritm,cancer,parasinus,informatica
+cod,algoritm,migrena,paracetamol,informatica
+cod,algoritm,migrena,parasinus,informatica
+cod,functie,migrena,parasinus,informatica
+cod,functie,migrena,paracetamol,informatica
+cod,functie,cancer,paracetamol,informatica
+cod,functie,cancer,parasinus,informatica
 sisteme complexe,fitness,metaeuristica,pso,teoria sistemelor complexe
-sisteme complexe,algoritm,metaeuristica,pso,teoria sistemelor complexe
-sisteme complexe,algoritm,metaeuristica,sgpso,teoria sistemelor complexe
-sisteme complexe,functie,metaeuristica,pso,teoria sistemelor complexe
-sisteme complexe,predictie,metaeuristica,pso,teoria sistemelor complexe
-inteligenta artificiala,fitness,euristica,pso,teoria sistemelor complexe
 sisteme complexe,fitness,metaeuristica,sgpso,teoria sistemelor complexe
-sisteme complexe,fitness,metaeuristica,pso,teoria sistemelor complexe
-ficat,sange,migrena,parasinus,medicina
-ficat,vena,cancer,parasinus,medicina
-ficat,vena,cancer,paracetamol,medicina
-ficat,vena,migrena,paracetamol,medicina
-ficat,sange,migrena,paracetamol,medicina
+sisteme complexe,fitness,euristica,pso,teoria sistemelor complexe
+sisteme complexe,fitness,euristica,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,pso,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,pso,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,ui,teoria sistemelor complexe
+sisteme complexe,fitness,euristica,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,euristica,ui,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,ui,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,ui,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,metaeuristica,parasinus,teoria sistemelor complexe
+sisteme complexe,fitness,euristica,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,euristica,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,metaeuristica,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,euristica,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,metaeuristica,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,euristica,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,metaeuristica,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,euristica,parasinus,teoria sistemelor complexe
+sisteme complexe,fitness,java,pso,teoria sistemelor complexe
+sisteme complexe,fitness,java,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,c#,pso,teoria sistemelor complexe
+sisteme complexe,fitness,c#,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,java,pso,teoria sistemelor complexe
+sisteme complexe,predictie,java,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,c#,pso,teoria sistemelor complexe
+sisteme complexe,predictie,c#,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,java,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,java,ui,teoria sistemelor complexe
+sisteme complexe,fitness,c#,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,c#,ui,teoria sistemelor complexe
+sisteme complexe,predictie,java,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,java,ui,teoria sistemelor complexe
+sisteme complexe,predictie,c#,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,c#,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,ui,teoria sistemelor complexe
+sisteme complexe,fitness,java,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,java,parasinus,teoria sistemelor complexe
+sisteme complexe,fitness,c#,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,c#,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,java,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,java,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,c#,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,c#,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,java,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,c#,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,java,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,c#,parasinus,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,pso,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,pso,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,pso,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,sgpso,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,pso,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,sgpso,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,pso,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,sgpso,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,pso,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,sgpso,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,ui,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,calculator,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,ui,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,ui,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,calculator,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,ui,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,calculator,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,ui,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,calculator,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,ui,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,cancer,parasinus,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,paracetamol,teoria sistemelor complexe
+sisteme complexe,fitness,migrena,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,cancer,parasinus,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,paracetamol,teoria sistemelor complexe
+sisteme complexe,predictie,migrena,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,cancer,parasinus,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,fitness,migrena,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,cancer,parasinus,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,paracetamol,teoria sistemelor complexe
+inteligenta artificiala,predictie,migrena,parasinus,teoria sistemelor complexe
 inima,sange,cancer,paracetamol,medicina
+inima,sange,cancer,parasinus,medicina
+inima,sange,migrena,paracetamol,medicina
+inima,sange,migrena,parasinus,medicina
+inima,vena,cancer,paracetamol,medicina
+inima,vena,cancer,parasinus,medicina
 inima,vena,migrena,paracetamol,medicina
 inima,vena,migrena,parasinus,medicina
-binar,algoritm,java,calculator,informatica
-cod,algoritm,java,calculator,informatica
-binar,functie,java,calculator,informatica
-cod,functie,java,calculator,informatica
-binar,algoritm,c#,calculator,informatica
-cod,algoritm,c#,calculator,informatica
-cod,functie,c#,calculator,informatica
-binar,algoritm,java,ui,informatica
-cod,algoritm,java,calculator,informatica
-cod,functie,java,calculator,informatica
-cod,functie,c#,ui,informatica
+ficat,sange,cancer,paracetamol,medicina
+ficat,sange,cancer,parasinus,medicina
+ficat,sange,migrena,paracetamol,medicina
+ficat,sange,migrena,parasinus,medicina
+ficat,vena,cancer,paracetamol,medicina
+ficat,vena,cancer,parasinus,medicina
+ficat,vena,migrena,paracetamol,medicina
+ficat,vena,migrena,parasinus,medicina
+inima,sange,cancer,calculator,medicina
+inima,sange,cancer,ui,medicina
+inima,sange,migrena,calculator,medicina
+inima,sange,migrena,ui,medicina
+inima,vena,cancer,calculator,medicina
+inima,vena,cancer,ui,medicina
+inima,vena,migrena,calculator,medicina
+inima,vena,migrena,ui,medicina
+ficat,sange,cancer,calculator,medicina
+ficat,sange,cancer,ui,medicina
+ficat,sange,migrena,calculator,medicina
+ficat,sange,migrena,ui,medicina
+ficat,vena,cancer,calculator,medicina
+ficat,vena,cancer,ui,medicina
+ficat,vena,migrena,calculator,medicina
+ficat,vena,migrena,ui,medicina
+inima,sange,cancer,pso,medicina
+inima,sange,cancer,sgpso,medicina
+inima,sange,migrena,pso,medicina
+inima,sange,migrena,sgpso,medicina
+inima,vena,cancer,pso,medicina
+inima,vena,cancer,sgpso,medicina
+inima,vena,migrena,pso,medicina
+inima,vena,migrena,sgpso,medicina
+ficat,sange,cancer,pso,medicina
+ficat,sange,cancer,sgpso,medicina
+ficat,sange,migrena,pso,medicina
+ficat,sange,migrena,sgpso,medicina
+ficat,vena,cancer,pso,medicina
+ficat,vena,cancer,sgpso,medicina
+ficat,vena,migrena,pso,medicina
+ficat,vena,migrena,sgpso,medicina
+inima,sange,java,paracetamol,medicina
+inima,sange,java,parasinus,medicina
+inima,sange,c#,paracetamol,medicina
+inima,sange,c#,parasinus,medicina
+inima,vena,java,paracetamol,medicina
+inima,vena,java,parasinus,medicina
+inima,vena,c#,paracetamol,medicina
+inima,vena,c#,parasinus,medicina
+ficat,sange,java,paracetamol,medicina
+ficat,sange,java,parasinus,medicina
+ficat,sange,c#,paracetamol,medicina
+ficat,sange,c#,parasinus,medicina
+ficat,vena,java,paracetamol,medicina
+ficat,vena,java,parasinus,medicina
+ficat,vena,c#,paracetamol,medicina
+ficat,vena,c#,parasinus,medicina
+inima,sange,java,calculator,medicina
+inima,sange,java,ui,medicina
+inima,sange,c#,calculator,medicina
+inima,sange,c#,ui,medicina
+inima,vena,java,calculator,medicina
+inima,vena,java,ui,medicina
+inima,vena,c#,calculator,medicina
+inima,vena,c#,ui,medicina
+ficat,sange,java,calculator,medicina
+ficat,sange,java,ui,medicina
+ficat,sange,c#,calculator,medicina
+ficat,sange,c#,ui,medicina
+ficat,vena,java,calculator,medicina
+ficat,vena,java,ui,medicina
+ficat,vena,c#,calculator,medicina
+ficat,vena,c#,ui,medicina
+inima,sange,java,pso,medicina
+inima,sange,java,sgpso,medicina
+inima,sange,c#,pso,medicina
+inima,sange,c#,sgpso,medicina
+inima,vena,java,pso,medicina
+inima,vena,java,sgpso,medicina
+inima,vena,c#,pso,medicina
+inima,vena,c#,sgpso,medicina
+ficat,sange,java,pso,medicina
+ficat,sange,java,sgpso,medicina
+ficat,sange,c#,pso,medicina
+ficat,sange,c#,sgpso,medicina
+ficat,vena,java,pso,medicina
+ficat,vena,java,sgpso,medicina
+ficat,vena,c#,pso,medicina
+ficat,vena,c#,sgpso,medicina
+inima,sange,metaeuristica,paracetamol,medicina
+inima,sange,metaeuristica,parasinus,medicina
+inima,sange,euristica,paracetamol,medicina
+inima,sange,euristica,parasinus,medicina
+inima,vena,metaeuristica,paracetamol,medicina
+inima,vena,metaeuristica,parasinus,medicina
+inima,vena,euristica,paracetamol,medicina
+inima,vena,euristica,parasinus,medicina
+ficat,sange,metaeuristica,paracetamol,medicina
+ficat,sange,metaeuristica,parasinus,medicina
+ficat,sange,euristica,paracetamol,medicina
+ficat,sange,euristica,parasinus,medicina
+ficat,vena,metaeuristica,paracetamol,medicina
+ficat,vena,metaeuristica,parasinus,medicina
+ficat,vena,euristica,paracetamol,medicina
+ficat,vena,euristica,parasinus,medicina
+inima,sange,metaeuristica,calculator,medicina
+inima,sange,metaeuristica,ui,medicina
+inima,sange,euristica,calculator,medicina
+inima,sange,euristica,ui,medicina
+inima,vena,metaeuristica,calculator,medicina
+inima,vena,metaeuristica,ui,medicina
+inima,vena,euristica,calculator,medicina
+inima,vena,euristica,ui,medicina
+ficat,sange,metaeuristica,calculator,medicina
+ficat,sange,metaeuristica,ui,medicina
+ficat,sange,euristica,calculator,medicina
+ficat,sange,euristica,ui,medicina
+ficat,vena,metaeuristica,calculator,medicina
+ficat,vena,metaeuristica,ui,medicina
+ficat,vena,euristica,calculator,medicina
+ficat,vena,euristica,ui,medicina
+inima,sange,metaeuristica,pso,medicina
+inima,sange,metaeuristica,sgpso,medicina
+inima,sange,euristica,pso,medicina
+inima,sange,euristica,sgpso,medicina
+inima,vena,metaeuristica,pso,medicina
+inima,vena,metaeuristica,sgpso,medicina
+inima,vena,euristica,pso,medicina
+inima,vena,euristica,sgpso,medicina
+ficat,sange,metaeuristica,pso,medicina
+ficat,sange,metaeuristica,sgpso,medicina
+ficat,sange,euristica,pso,medicina
+ficat,sange,euristica,sgpso,medicina
+ficat,vena,metaeuristica,pso,medicina
+ficat,vena,metaeuristica,sgpso,medicina
+ficat,vena,euristica,pso,medicina
+ficat,vena,euristica,sgpso,medicina

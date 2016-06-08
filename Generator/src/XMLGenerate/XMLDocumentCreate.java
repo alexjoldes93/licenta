@@ -21,6 +21,17 @@ public class XMLDocumentCreate {
 			Element root = new Element("article");
 			XMLDoc.setRootElement(root);
 			
+			Element procents = new Element("procents");
+			Element details = new Element("details");
+			Element domainWords = new Element("domainWords");
+			
+			
+			
+			Element name= new Element("articleName");
+			name.addContent(String.valueOf(this.article.getName()));
+			
+			details.addContent(name);
+			
 			Element element1 = new Element("procentLeadSectionUnderstandable");
 			element1.addContent(String.valueOf(this.article.getProcentLeadSectionUnderstandable()));
 			
@@ -62,21 +73,26 @@ public class XMLDocumentCreate {
 			
 			Element element14 = new Element("words");
 			element14.addContent(String.valueOf(this.article.getWords()));
+			domainWords.addContent(element14);
 			
-			root.addContent(element1);
-			root.addContent(element2);
-			root.addContent(element3);
+			procents.addContent(element1);
+			procents.addContent(element2);
+			procents.addContent(element3);
 			//root.addContent(element4);
-			root.addContent(element5);
+			procents.addContent(element5);
 			//root.addContent(element6);
-			root.addContent(element7);
-			root.addContent(element8);
-			root.addContent(element9);
-			root.addContent(element10);
-			root.addContent(element11);
-			root.addContent(element12);
-			root.addContent(element13);
-			root.addContent(element14);
+			procents.addContent(element7);
+			procents.addContent(element8);
+			procents.addContent(element9);
+			procents.addContent(element10);
+			procents.addContent(element11);
+			procents.addContent(element12);
+			procents.addContent(element13);
+			
+			
+			root.addContent(details);
+			root.addContent(procents);
+			root.addContent(domainWords);
 			
 			
 			XMLOutputter xmlOutput = new XMLOutputter();

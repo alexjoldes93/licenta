@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>32.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>91.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>4.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>0.0</procentLanguageProblems>
-  <procentRevisionHistory>29.0</procentRevisionHistory>
-  <procentAuthorInformation>23.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>50.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>98.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>33.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>91.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>36.0</procentRevisionCount>
-  <words>sisteme complexe,vena,c#,pso,</words>
+  <details>
+    <articleName>Article_84</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>82.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>37.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>92.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>16.0</procentLanguageProblems>
+    <procentRevisionHistory>8.0</procentRevisionHistory>
+    <procentAuthorInformation>67.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>33.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>37.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>54.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>86.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>21.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>binar,predictie,metaeuristica,pso,</words>
+  </domainWords>
 </article>

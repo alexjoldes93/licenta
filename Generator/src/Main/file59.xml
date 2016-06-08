@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>14.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>37.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>57.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>24.0</procentLanguageProblems>
-  <procentRevisionHistory>42.0</procentRevisionHistory>
-  <procentAuthorInformation>3.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>0.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>2.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>76.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>82.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>5.0</procentRevisionCount>
-  <words>ficat,sange,cancer,sgpso,</words>
+  <details>
+    <articleName>Article_59</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>75.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>50.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>70.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>29.0</procentLanguageProblems>
+    <procentRevisionHistory>76.0</procentRevisionHistory>
+    <procentAuthorInformation>19.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>5.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>6.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>36.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>11.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>28.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,predictie,euristica,ui,</words>
+  </domainWords>
 </article>

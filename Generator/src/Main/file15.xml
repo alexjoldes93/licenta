@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>86.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>79.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>4.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>9.0</procentLanguageProblems>
-  <procentRevisionHistory>5.0</procentRevisionHistory>
-  <procentAuthorInformation>2.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>98.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>49.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>79.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>58.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>48.0</procentRevisionCount>
-  <words>binar,predictie,c#,ui,</words>
+  <details>
+    <articleName>Abraham_Lincoln</articleName>
+  </details>
+  <procents>
+    <procentClearOfStruture>78.94</procentClearOfStruture>
+    <procentReferencesToReliableSources>43.86</procentReferencesToReliableSources>
+    <procentRevisionHistory>42.45</procentRevisionHistory>
+    <procentProportionParagraphsWithCitations>30.76</procentProportionParagraphsWithCitations>
+    <procentArticleSize>92.00</procentArticleSize>
+    <procentProportionRegisteredEditorsWithEditFrequency>61.1</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>36.7</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,functie,cancer,calculator,</words>
+  </domainWords>
 </article>

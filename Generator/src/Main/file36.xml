@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>43.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>24.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>74.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>49.0</procentLanguageProblems>
-  <procentRevisionHistory>53.0</procentRevisionHistory>
-  <procentAuthorInformation>19.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>65.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>80.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>5.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>57.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>63.0</procentRevisionCount>
-  <words>binar,vena,metaeuristica,pso,</words>
+  <details>
+    <articleName>Article_36</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>13.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>84.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>66.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>73.0</procentLanguageProblems>
+    <procentRevisionHistory>3.0</procentRevisionHistory>
+    <procentAuthorInformation>60.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>53.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>49.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>55.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>13.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>11.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,algoritm,metaeuristica,parasinus,</words>
+  </domainWords>
 </article>

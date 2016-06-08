@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article>
-  <procentLeadSectionUnderstandable>16.0</procentLeadSectionUnderstandable>
-  <procentClearOfStruture>23.0</procentClearOfStruture>
-  <procentReferencesToReliableSources>90.0</procentReferencesToReliableSources>
-  <procentLanguageProblems>25.0</procentLanguageProblems>
-  <procentRevisionHistory>89.0</procentRevisionHistory>
-  <procentAuthorInformation>5.0</procentAuthorInformation>
-  <procentProportionParagraphsWithCitations>77.0</procentProportionParagraphsWithCitations>
-  <procentArticleSize>11.0</procentArticleSize>
-  <procentProportionUnregisteredEditorsWithSingleEdit>83.0</procentProportionUnregisteredEditorsWithSingleEdit>
-  <procentProportionRegisteredEditorsWithEditFrequency>75.0</procentProportionRegisteredEditorsWithEditFrequency>
-  <procentRevisionCount>44.0</procentRevisionCount>
-  <words>inima,functie,java,pso,</words>
+  <details>
+    <articleName>Article_43</articleName>
+  </details>
+  <procents>
+    <procentLeadSectionUnderstandable>75.0</procentLeadSectionUnderstandable>
+    <procentClearOfStruture>88.0</procentClearOfStruture>
+    <procentReferencesToReliableSources>76.0</procentReferencesToReliableSources>
+    <procentLanguageProblems>80.0</procentLanguageProblems>
+    <procentRevisionHistory>55.0</procentRevisionHistory>
+    <procentAuthorInformation>15.0</procentAuthorInformation>
+    <procentProportionParagraphsWithCitations>79.0</procentProportionParagraphsWithCitations>
+    <procentArticleSize>43.0</procentArticleSize>
+    <procentProportionUnregisteredEditorsWithSingleEdit>31.0</procentProportionUnregisteredEditorsWithSingleEdit>
+    <procentProportionRegisteredEditorsWithEditFrequency>8.0</procentProportionRegisteredEditorsWithEditFrequency>
+    <procentRevisionCount>4.0</procentRevisionCount>
+  </procents>
+  <domainWords>
+    <words>cod,functie,euristica,sgpso,</words>
+  </domainWords>
 </article>
